@@ -1,0 +1,285 @@
+province,maire,num_bv,bv,inscrits,votants,abstention,nuls,blancs,exprimes,oui,non 
+Province Nord,BELEP,N. 1,Mairie,790,589,201,2,0,587,555,32   
+Province Nord,BELEP,N. 2,Lieu de vote delocalise de BELEP a NOUMEA,130,118,12,2,0,116,109,7   
+Province Sud,BOULOUPARIS,N. 1,Mairie - Maison des associations,1520,1394,126,13,3,1378,493,885   
+Province Sud,BOULOUPARIS,N. 2,Centre Culturel,1125,1006,119,5,3,998,226,772   
+Province Sud,BOURAIL,N. 1,Mairie,602,533,69,4,3,526,113,413   
+Province Sud,BOURAIL,N. 2,Pothe,822,679,143,11,2,666,553,113   
+Province Sud,BOURAIL,N. 3,Colisee,842,769,73,4,3,762,131,631 
+Province Sud,BOURAIL,N. 4,Ecole Les Lys d Eau,821,737,84,5,5,727,112,615   
+Province Sud,BOURAIL,N. 5,Ecole Louise Michel,847,764,83,9,4,751,152,599   
+Province Nord,CANALA,N. 1,Mairie,340,293,47,7,3,283,252,31 
+Province Nord,CANALA,N. 2,Nakety,793,732,61,3,1,728,701,27   
+Province Nord,CANALA,N. 3,Nanon,465,404,61,2,8,394,372,22   
+Province Nord,CANALA,N. 4,Mehoue,789,672,117,6,2,664,615,49   
+Province Nord,CANALA,N. 5,Gelima,735,639,96,2,4,633,617,16   
+Province Nord,CANALA,N. 6,Mereneme,284,234,50,4,2,228,205,23   
+Province Sud,DUMBEA,N. 1,Hotel de Ville 1,820,691,129,1,5,685,70,615   
+Province Sud,DUMBEA,N. 2,Hotel de ville 2,1454,1192,262,18,10,1164,365,799   
+Province Sud,DUMBEA,N. 3,Ecole maternelle Les Orangers,640,502,138,4,4,494,155,339   
+Province Sud,DUMBEA,N. 4,Groupe scolaire Alphonse DILLENSEGER,1042,864,178,10,16,838,144,694   
+Province Sud,DUMBEA,N. 5,Maison de la Jeunesse,1274,1059,215,6,7,1046,277,769   
+Province Sud,DUMBEA,N. 6,Centre Culturel de DUMBEA,799,643,156,10,4,629,145,484   
+Province Sud,DUMBEA,N. 7,Ecole maternelle Les Jacarandas,1186,962,224,7,5,950,223,727   
+Province Sud,DUMBEA,N. 8,Ecole maternelle Les Niaoulis,898,729,169,6,4,719,177,542   
+Province Sud,DUMBEA,N. 9,Ecole primaire Gustave CLAIN,1122,950,172,3,8,939,239,700   
+Province Sud,DUMBEA,N. 10,Ecole maternelle L Oasis,1094,897,197,8,6,883,214,669   
+Province Sud,DUMBEA,N. 11,Groupe scolaire Michelle DELACHARLERIE-ROLLY 1,273,249,24,2,1,246,6,240   
+Province Sud,DUMBEA,N. 12,Groupe scolaire Michelle DELACHARLERIE-ROLLY 2,665,509,156,13,8,488,163,325   
+Province Sud,DUMBEA,N. 13,Groupe scolaire Renee FONG,1131,941,190,10,7,924,248,676   
+Province Sud,DUMBEA,N. 14,Mairie Nord,902,774,128,5,3,766,81,685   
+Province Sud,DUMBEA,N. 15,Groupe scolaire John HIGGINSON,818,674,144,8,5,661,79,582   
+Province Sud,DUMBEA,N. 16,Ecole primaire Paul DUBOISE 1,726,643,83,7,6,630,92,538   
+Province Sud,DUMBEA,N. 17,Ecole primaire Paul DUBOISE 2,645,537,108,0,6,531,99,432   
+Province Sud,DUMBEA,N. 18,Ecole maternelle Les Colibris,1057,883,174,4,6,873,153,720   
+Province Sud,FARINO,N. 1,Mairie,548,520,28,6,2,512,47,465   
+Province Nord,HIENGHENE,N. 1,Mairie,541,461,80,6,3,452,422,30   
+Province Nord,HIENGHENE,N. 2,Tendo,220,189,31,1,0,188,176,12   
+Province Nord,HIENGHENE,N. 3,Bas-Coulna,114,97,17,0,0,97,86,11
+Province Nord,HIENGHENE,N. 4,Haut-Coulna,100,82,18,1,0,81,79,2   
+Province Nord,HIENGHENE,N. 5,Ouayaguette,178,144,34,0,0,144,128,16   
+Province Nord,HIENGHENE,N. 6,Ouaieme,209,177,32,3,1,173,166,7   
+Province Nord,HIENGHENE,N. 7,Oue-Hawa,65,55,10,0,0,55,55,0   
+Province Nord,HIENGHENE,N. 8,Tiendanite,94,87,7,0,0,87,87,0   
+Province Nord,HIENGHENE,N. 9,Ouare,583,527,56,7,4,516,501,15   
+Province Nord,HIENGHENE,N. 10,Lewarap,286,250,36,1,2,247,233,14   
+Province Nord,HOUAILOU,N. 1,Mairie,410,333,77,6,3,324,257,67   
+Province Nord,HOUAILOU,N. 2,Warai,660,541,119,10,7,524,407,117   
+Province Nord,HOUAILOU,N. 3,Ba,369,306,63,2,0,304,266,38   
+Province Nord,HOUAILOU,N. 4,Nessakoea,303,253,50,0,0,253,229,24   
+Province Nord,HOUAILOU,N. 5,Poro,516,412,104,4,5,403,306,97   
+Province Nord,HOUAILOU,N. 6,Coula,494,399,95,2,1,396,348,48   
+Province Nord,HOUAILOU,N. 7,Neaoua,328,276,52,2,1,273,253,20   
+Province Nord,HOUAILOU,N. 8,Nedivin,498,428,70,4,0,424,368,56   
+Province Nord,KAALA-GOMEN,N. 1,Mairie,494,411,83,3,4,404,222,182   
+Province Nord,KAALA-GOMEN,N. 2,Oueholle,358,328,30,0,2,326,323,3   
+Province Nord,KAALA-GOMEN,N. 3,Maison Paita,274,245,29,2,0,243,217,26   
+Province Nord,KAALA-GOMEN,N. 4,Maison Gamai,184,161,23,1,0,160,145,15   
+Province Nord,KAALA-GOMEN,N. 5,Maison Baoui,131,115,16,0,0,115,105,10   
+Province Nord,KAALA-GOMEN,N. 6,Ouaco,193,170,23,0,2,168,56,112   
+Province Nord,KONe,N. 1,Salle Au Pitiri,661,555,106,2,1,552,166,386   
+Province Nord,KONe,N. 2,Poindah,164,140,24,1,0,139,104,35   
+Province Nord,KONe,N. 3,Netchaot,395,344,51,6,3,335,301,34   
+Province Nord,KONe,N. 4,Tiaoue,263,245,18,0,0,245,228,17   
+Province Nord,KONe,N. 5,Ateou,125,115,10,0,0,115,111,4   
+Province Nord,KONe,N. 6,Bopope,214,187,27,2,0,185,167,18   
+Province Nord,KONe,N. 7,Neami,208,181,27,1,0,180,146,34   
+Province Nord,KONe,N. 8,Baco,397,364,33,2,0,362,323,39   
+Province Nord,KONe,N. 9,Ecole primaire Les Cigales,640,560,80,5,5,550,313,237   
+Province Nord,KONe,N. 10,Noelly,211,189,22,4,0,185,176,9   
+Province Nord,KONe,N. 11,Ecole Teari,495,421,74,6,5,410,173,237   
+Province Nord,KONe,N. 12,Les Allamandas,376,337,39,6,2,329,99,230   
+Province Nord,KOUAOUA,N. 1,Mairie,558,468,90,3,3,462,296,166   
+Province Nord,KOUAOUA,N. 2,Ouerou-Pimet,262,212,50,1,1,210,181,29   
+Province Nord,KOUAOUA,N. 3,Koh,145,136,9,1,1,134,114,20   
+Province Nord,KOUAOUA,N. 4,Mea-Mebara,167,138,29,0,3,135,101,34   
+Province Nord,KOUMAC,N. 1,Mairie 1 et centralisateur,1162,1053,109,9,16,1028,481,547   
+Province Nord,KOUMAC,N. 2,Ecole primaire Charles Mermoud 2,1498,1335,163,14,10,1311,372,939   
+Province Sud,LA FOA,N. 1,Centre socio-culturel,853,771,82,11,8,752,172,580   
+Province Sud,LA FOA,N. 2,Centre socio-culturel,671,610,61,5,2,603,259,344   
+Province Sud,LA FOA,N. 3,Centre socio-culturel,788,723,65,7,3,713,214,499   
+Province Sud,LA FOA,N. 4,Centre socio-culturel,567,527,40,2,3,522,131,391
+Province des Iles,LIFOU,N. 1,Fare des iles,550,317,233,3,2,312,213,99   
+Province des Iles,LIFOU,N. 2,Xepenehe,615,331,284,4,3,324,275,49   
+Province des Iles,LIFOU,N. 3,Drueulu,581,344,237,1,1,342,318,24   
+Province des Iles,LIFOU,N. 4,Jozip,312,189,123,2,3,184,139,45   
+Province des Iles,LIFOU,N. 5,Jokin,383,199,184,5,1,193,177,16   
+Province des Iles,LIFOU,N. 6,Hmelek,537,282,255,0,1,281,211,70   
+Province des Iles,LIFOU,N. 7,Mou,486,269,217,3,1,265,158,107   
+Province des Iles,LIFOU,N. 8,Hnathalo,519,350,169,4,1,345,309,36   
+Province des Iles,LIFOU,N. 9,Hnacaom,190,101,89,0,1,100,67,33   
+Province des Iles,LIFOU,N. 10,Siloam,271,183,88,2,1,180,156,24   
+Province des Iles,LIFOU,N. 11,Wasany,311,185,126,1,1,183,139,44   
+Province des Iles,LIFOU,N. 12,Tiga,191,58,133,0,2,56,52,4   
+Province des Iles,LIFOU,N. 13,Luecila,607,424,183,5,5,414,303,111
+Province des Iles,LIFOU,N. 14,Hapetra,337,221,116,1,0,220,183,37   
+Province des Iles,LIFOU,N. 15,Nang,349,176,173,0,0,176,149,27   
+Province des Iles,LIFOU,N. 16,Xodre,158,85,73,0,0,85,61,24   
+Province des Iles,LIFOU,N. 17,Huiwatrul,375,244,131,1,0,243,196,47   
+Province des Iles,LIFOU,N. 18,Wedrumel,290,153,137,1,0,152,112,40   
+Province des Iles,LIFOU,N. 19,Traput,335,157,178,1,1,155,121,34   
+Province des Iles,LIFOU,N. 20,Kedeigne,404,204,200,0,2,202,171,31
+Province des Iles,LIFOU,N. 21,Tingeting,259,118,141,1,0,117,70,47   
+Province des Iles,LIFOU,N. 22,Hunete,179,109,70,2,0,107,102,5   
+Province des Iles,LIFOU,N. 23,Luengoni,261,173,88,4,1,168,147,21
+Province des Iles,LIFOU,N. 24,Hnanemuhaetra,124,71,53,2,0,69,57,12   
+Province des Iles,LIFOU,N. 25,Hnasse,218,114,104,0,0,114,85,29   
+Province des Iles,LIFOU,N. 26,Kirinata,155,96,59,1,0,95,86,9   
+Province des Iles,LIFOU,N. 27,Lieu de vote delocalise N.1 de Lifou a NOUMEA,755,699,56,5,3,691,558,133   
+Province des Iles,LIFOU,N. 28,Lieu de vote delocalise N.2 de Lifou a NOUMEA,725,674,51,4,3,667,532,135   
+Province Sud,ILE DES PINS,N. 1,Mairie 1,906,724,182,11,7,706,447,259   
+Province Sud,ILE DES PINS,N. 2,Batiment communal Point Information,675,558,117,2,4,552,396,156   
+Province Sud,ILE DES PINS,N. 3,Lieu de vote delocalise de l Ile-des-Pins a NOUMEA,130,129,1,1,0,128,90,38   
+Province des Iles,MARE,N. 1,Tadine,929,457,472,10,0,447,394,53   
+Province des Iles,MARE,N. 2,Hnawayatche,645,241,404,4,0,237,170,67   
+Province des Iles,MARE,N. 3,Tenane,366,183,183,0,0,183,153,30   
+Province des Iles,MARE,N. 4,Atha,324,191,133,2,0,189,177,12   
+Province des Iles,MARE,N. 5,Tawainedre,393,209,184,3,0,206,163,43   
+Province des Iles,MARE,N. 6,Penelo,737,429,308,2,0,427,386,41
+Province des Iles,MARE,N. 7,Wabao,612,321,291,1,0,320,284,36   
+Province des Iles,MARE,N. 8,Nece,787,321,466,3,0,318,247,71
+Province des Iles,MARE,N. 9,Menaku,216,91,125,2,0,89,64,25   
+Province des Iles,MARE,N. 10,Mebuet,330,143,187,2,2,139,121,18   
+Province des Iles,MARE,N. 11,Roh,285,101,184,1,2,98,69,29   
+Province des Iles,MARE,N. 12,Eni,335,169,166,1,0,168,146,22   
+Province des Iles,MARE,N. 13,La Roche,594,347,247,4,0,343,305,38   
+Province des Iles,MARE,N. 14,Lieu de vote delocalise de MARE a NOUMEA,832,768,64,2,0,766,645,121  
+Province Sud,MOINDOU,N. 1,Mairie,747,682,65,5,5,672,299,373   
+Province Sud,MONT-DORE,N. 1,Mairie de BOULARI,645,515,130,7,3,505,130,375   
+Province Sud,MONT-DORE,N. 2,Groupe scolaire Helene CHANIEL,468,383,85,2,5,376,47,329   
+Province Sud,MONT-DORE,N. 3,Ecole primaire Adolphe BOUTAN,739,652,87,1,13,638,105,533   
+Province Sud,MONT-DORE,N. 4,Ecole primaire Louis Henri GALINIE 1,750,653,97,14,2,637,104,533   
+Province Sud,MONT-DORE,N. 5,Ecole La Riziere 1,1063,872,191,7,6,859,734,125   
+Province Sud,MONT-DORE,N. 6,Ecole primaire du Vallon Dore,717,601,116,10,8,583,104,479   
+Province Sud,MONT-DORE,N. 7,Ouara,95,77,18,1,0,76,69,7   
+Province Sud,MONT-DORE,N. 8,Groupe scolaire de Boulari 1,791,675,116,9,7,659,73,586   
+Province Sud,MONT-DORE,N. 9,Mairie annexe de Plum 1,911,746,165,17,6,723,200,523   
+Province Sud,MONT-DORE,N. 10,Ecole La Riziere 2,843,703,140,6,12,685,200,485   
+Province Sud,MONT-DORE,N. 11,Groupe scolaire de Boulari 2,699,596,103,8,6,582,65,517   
+Province Sud,MONT-DORE,N. 12,Groupe scolaire Saint-Michel 1,651,538,113,22,0,516,155,361 
+Province Sud,MONT-DORE,N. 13,Ecole maternelle Les Fougeres,412,335,77,2,1,332,79,253   
+Province Sud,MONT-DORE,N. 14,Ecole maternelle Les Dauphins,738,640,98,5,1,634,106,528   
+Province Sud,MONT-DORE,N. 15,Ecole maternelle Les Coccinelles,1036,875,161,18,11,846,232,614   
+Province Sud,MONT-DORE,N. 16,Ecole Saint-Joseph de CLUNY,1005,881,124,15,11,855,317,538   
+Province Sud,MONT-DORE,N. 17,Ecole primaire Louis Henri GALINIE 2,785,652,133,7,1,644,84,560   
+Province Sud,MONT-DORE,N. 18,Groupe scolaire de Boulari 3,772,627,145,2,6,619,87,532   
+Province Sud,MONT-DORE,N. 19,Groupe scolaire de Saint-Michel 2,595,512,83,10,10,492,59,433   
+Province Sud,MONT-DORE,N. 20,Groupe scolaire de Plum,521,431,90,2,2,427,84,343   
+Province Sud,MONT-DORE,N. 21,Ecole La Riziere 3,612,476,136,9,12,455,151,304   
+Province Sud,MONT-DORE,N. 22,Ecole de la Briqueterie 1,652,530,122,8,9,513,141,372   
+Province Sud,MONT-DORE,N. 23,Ecole de la Briqueterie 2,611,505,106,6,3,496,78,418   
+Province Sud,MONT-DORE,N. 24,Mairie 2 ,527,424,103,1,3,420,63,357   
+Province Sud,MONT-DORE,N. 25,Groupe scolaire de Yahoue ,731,623,108,7,3,613,159,454   
+Province Sud,NOUMEA,N. 1,Mairie 1,632,448,184,2,1,445,109,336   
+Province Sud,NOUMEA,N. 2,Mairie 2,1037,671,366,3,4,664,267,397   
+Province Sud,NOUMEA,N. 3,Ecole Frederic SURLEAU,663,526,137,2,1,523,82,441 
+Province Sud,NOUMEA,N. 4,Ecole Marguerite LEFRANCOIS,630,542,88,2,4,536,20,516   
+Province Sud,NOUMEA,N. 5,Ecole Yvonne DUPONT 1,677,606,71,1,1,604,26,578   
+Province Sud,NOUMEA,N. 6,Ecole Eloi FRANC 1,781,684,97,3,6,675,63,612   
+Province Sud,NOUMEA,N. 7,Ecole Eloi FRANC 2,706,604,102,4,5,595,27,568   
+Province Sud,NOUMEA,N. 8,Ecole Fernande LERICHE 1,613,543,70,1,1,541,17,524   
+Province Sud,NOUMEA,N. 9,Ecole Fernande LERICHE 2,780,687,93,4,0,683,33,650   
+Province Sud,NOUMEA,N. 10,Ecole Jean MERMOUD 1,701,621,80,3,0,618,29,589   
+Province Sud,NOUMEA,N. 11,Ecole Jean MERMOUD 2,764,697,67,2,3,692,4,688   
+Province Sud,NOUMEA,N. 12,Ecole Ernest RISBEC 1,757,654,103,4,6,644,52,592   
+Province Sud,NOUMEA,N. 13,Ecole Ernest RISBEC 2,768,663,105,1,5,657,37,620   
+Province Sud,NOUMEA,N. 14,Ecole Paul BOYER 1,670,549,121,2,1,546,49,497   
+Province Sud,NOUMEA,N. 15,Ecole les CAPUCINES,732,634,98,6,6,622,49,573   
+Province Sud,NOUMEA,N. 16,Ecole Candide KOCH 1,790,632,158,0,6,626,59,567   
+Province Sud,NOUMEA,N. 17,Ecole Candide KOCH 2,871,764,107,4,6,754,39,715   
+Province Sud,NOUMEA,N. 18,Ecole Emily PANNE 1,777,665,112,1,6,658,65,593   
+Province Sud,NOUMEA,N. 19,Ecole Emily PANNE 2,847,649,198,1,4,644,102,542   
+Province Sud,NOUMEA,N. 20,Ecole Antoinette CHARBONNEAUX,778,691,87,3,5,683,24,659   
+Province Sud,NOUMEA,N. 21,Ecole Marie HAVET 1,795,693,102,1,4,688,42,646   
+Province Sud,NOUMEA,N. 22,Ecole Marie HAVET 2,814,711,103,2,11,698,40,658   
+Province Sud,NOUMEA,N. 23,Ecole Christine BOLETTI 1,839,706,133,2,6,698,64,634   
+Province Sud,NOUMEA,N. 24,Ecole Christine BOLETTI 2,972,740,232,1,7,732,233,499   
+Province Sud,NOUMEA,N. 25,Ecole Michel CACOT 1,856,758,98,2,7,749,61,688   
+Province Sud,NOUMEA,N. 26,Ecole Michel CACOT 2,890,716,174,2,4,710,74,636   
+Province Sud,NOUMEA,N. 27,Ecole Celine TEYSSANDIER de LAUBAREDE,975,708,267,6,6,696,269,427   
+Province Sud,NOUMEA,N. 28,Ecole Gustave MOUCHET 1,1183,759,424,4,11,744,458,286   
+Province Sud,NOUMEA,N. 29,Ecole Gustave MOUCHET 2,992,664,328,7,11,646,283,363   
+Province Sud,NOUMEA,N. 30,Ecole Mathilde BROQUET 1,1074,886,188,6,8,872,197,675   
+Province Sud,NOUMEA,N. 31,Ecole Marie COURTOT 1,1145,921,224,7,5,909,211,698   
+Province Sud,NOUMEA,N. 32,Ecole Marie COURTOT 2,849,751,98,3,5,743,47,696   
+Province Sud,NOUMEA,N. 33,Ecole Robert BURCK,1024,816,208,6,5,805,285,520   
+Province Sud,NOUMEA,N. 34,Ecole les ROSES,948,765,183,7,13,745,188,557   
+Province Sud,NOUMEA,N. 35,Ecole les OEILLETS,915,740,175,1,6,733,184,549   
+Province Sud,NOUMEA,N. 36,Ecole Jacques TROUILLOT,886,735,151,12,14,709,206,503   
+Province Sud,NOUMEA,N. 37,Ecole Mauricette DEVAMBEZ 1,1254,899,355,11,6,882,407,475   
+Province Sud,NOUMEA,N. 38,Ecole Mauricette DEVAMBEZ 2,1067,881,186,6,4,871,202,669   
+Province Sud,NOUMEA,N. 39,Ecole Adrienne LOMONT 1,785,575,210,0,15,560,196,364   
+Province Sud,NOUMEA,N. 40,Ecole Adrienne LOMONT 2,1231,980,251,6,6,968,207,761 
+Province Sud,NOUMEA,N. 41,Ecole Gustave LODS 1,1035,844,191,10,17,817,173,644   
+Province Sud,NOUMEA,N. 42,Ecole Gustave LODS 2,1180,929,251,9,11,909,238,671 
+Province Sud,NOUMEA,N. 43,Ecole Daniel TALON,1672,1169,503,16,17,1136,441,695   
+Province Sud,NOUMEA,N. 44,Ecole Louise VERGES,1117,789,328,10,16,763,429,334   
+Province Sud,NOUMEA,N. 45,Ecole Mathilde BROQUET 2,1191,993,198,5,7,981,206,775   
+Province Sud,NOUMEA,N. 46,Ecole Yvonne DUPONT 2,512,461,51,2,1,458,9,449   
+Province Sud,NOUMEA,N. 47,Ecole Paul BOYER 2,720,620,100,2,3,615,29,586   
+Province Sud,NOUMEA,N. 48,Ecole Marguerite ARSAPIN,929,722,207,8,8,706,198,508   
+Province Sud,NOUMEA,N. 49,Ecole les PERVENCHES,838,722,116,3,3,716,58,658   
+Province Sud,NOUMEA,N. 50,Ecole Albert PERRAUD,1346,1010,336,10,13,987,417,570   
+Province Sud,NOUMEA,N. 51,Ecole Michel AMIOT,946,800,146,0,5,795,124,671 
+Province Sud,NOUMEA,N. 52,Ecole Charles BICHON,520,441,79,1,5,435,52,383   
+Province Sud,NOUMEA,N. 53,Ecole les LYS,632,553,79,2,4,547,30,517   
+Province Sud,NOUMEA,N. 54,Ecole le PETIT POUCET,966,763,203,3,8,752,152,600   
+Province Sud,NOUMEA,N. 55,Ecole Serge LAIGLE,865,797,68,1,10,786,29,757   
+Province Sud,NOUMEA,N. 56,Ecole Guy CHAMPMOREAU,1157,967,190,2,5,960,156,804   
+Province Sud,NOUMEA,N. 57,Mairie 3,592,183,409,2,4,177,70,107   
+Province Nord,OUEGOA,N. 1,Mairie,796,684,112,4,3,677,170,507   
+Province Nord,OUEGOA,N. 2,Bonde,814,697,117,2,1,694,676,18   
+Province Nord,OUEGOA,N. 3,Paimboas,396,317,79,1,1,315,300,15   
+Province Nord,OUEGOA,N. 4,Tiari,151,134,17,0,0,134,125,9   
+Province des Iles,OUVEA,N. 1,Mairie,814,466,348,5,1,460,371,89   
+Province des Iles,OUVEA,N. 2,Fayaoue,758,368,390,7,2,359,274,85   
+Province des Iles,OUVEA,N. 3,Heo,454,220,234,2,0,218,180,38   
+Province des Iles,OUVEA,N. 4,Mouli,325,191,134,1,0,190,181,9   
+Province des Iles,OUVEA,N. 5,Weneki,718,346,372,3,3,340,303,37   
+Province des Iles,OUVEA,N. 6,Ognahut,368,200,168,3,1,196,158,38   
+Province des Iles,OUVEA,N. 7,Lekine,258,176,82,1,0,175,165,10   
+Province des Iles,OUVEA,N.8,Lieu de vote delocalise d OUVEA a NOUMEA,679,631,48,2,1,628,528,100   
+Province Sud,PAITA,N. 1,Dock socio-culturel 1,573,441,132,3,4,434,116,318   
+Province Sud,PAITA,N. 2,Dock socio-culturel 2,616,526,90,3,4,519,90,429   
+Province Sud,PAITA,N. 3,Dock socio-culturel 3,658,565,93,3,2,560,144,416   
+Province Sud,PAITA,N. 4,Dock socio-culturel 4,356,316,40,1,2,313,48,265   
+Province Sud,PAITA,N. 5,Dock socio-culturel 5,719,619,100,7,4,608,96,512   
+Province Sud,PAITA,N. 6,Mairie,747,639,108,0,5,634,331,303   
+Province Sud,PAITA,N. 7,Ecole Vi Vete,739,621,118,12,5,604,112,492   
+Province Sud,PAITA,N. 8,Ecole James Paddon,735,633,102,6,6,621,110,511 
+Province Sud,PAITA,N. 9,Ecole elementaire Scheffleras 1,751,604,147,5,6,593,191,402   
+Province Sud,PAITA,N. 10,Ecole elementaire Scheffleras 2,794,684,110,4,16,664,178,486   
+Province Sud,PAITA,N. 11,Ecole maternelle Scheffleras 1,716,611,105,4,7,600,134,466   
+Province Sud,PAITA,N. 12,Ecole maternelle Scheffleras 2,572,508,64,7,2,499,88,411 
+Province Sud,PAITA,N. 13,Ecole primaire Jean Ounou COTTIN 1,774,671,103,5,5,661,158,503   
+Province Sud,PAITA,N. 14,Ecole primaire Jean Ounou COTTIN 2,797,700,97,8,6,686,434,252   
+Province Sud,PAITA,N. 15,Mairie annexe de Tontouta,609,540,69,2,7,531,85,446   
+Province Sud,PAITA,N. 16,Ecole Robert Abel- 1,439,407,32,2,2,403,24,379   
+Province Sud,PAITA,N. 17,Ecole Robert Abel- 2,552,459,93,3,5,451,91,360   
+Province Nord,POINDIMIE,N. 1,Mairie,1112,938,174,7,7,924,509,415   
+Province Nord,POINDIMIE,N. 2,Ouindo,499,441,58,10,6,425,371,54
+Province Nord,POINDIMIE,N. 3,Bayes,541,490,51,3,0,487,431,56   
+Province Nord,POINDIMIE,N. 4,Amoa,481,428,53,4,2,422,359,63   
+Province Nord,POINDIMIE,N. 5,Tye,561,501,60,4,2,495,448,47   
+Province Nord,POINDIMIE,N. 6,Tiwaka,323,283,40,1,2,280,246,34   
+Province Nord,POINDIMIE,N. 7,Tieti,540,486,54,4,5,477,418,59   
+Province Nord,PONERIHOUEN,N. 1,Mairie,475,408,67,6,5,397,263,134   
+Province Nord,PONERIHOUEN,N. 2,Moneo,446,384,62,2,4,378,314,64   
+Province Nord,PONERIHOUEN,N. 3,Tchamba,310,264,46,4,0,260,213,47   
+Province Nord,PONERIHOUEN,N. 4,Goa,379,324,55,2,2,320,305,15   
+Province Nord,PONERIHOUEN,N. 5,Grondu,495,437,58,4,2,431,405,26   
+Province Nord,PONERIHOUEN,N. 6,Mou,162,142,20,0,0,142,127,15   
+Province Nord,PONERIHOUEN,N. 7,Goyetta,329,279,50,2,1,276,260,16   
+Province Nord,POUEBO,N. 1,Mairie,720,598,122,2,0,596,569,27   
+Province Nord,POUEBO,N. 2,Saint Denis Ballade,542,415,127,3,0,412,371,41 
+Province Nord,POUEBO,N. 3,Yambe,395,326,69,1,0,325,314,11 
+Province Nord,POUEBO,N. 4,Saint-Louis,554,457,97,4,1,452,431,21 
+Province Nord,POUEBO,N. 5,Colnett - maison commune,124,92,32,0,0,92,84,8   
+Province Nord,POUEMBOUT,N. 1,Mairie,1095,967,128,6,8,953,334,619   
+Province Nord,POUEMBOUT,N. 2,Paouta,155,140,15,3,2,135,121,14   
+Province Nord,POUEMBOUT,N. 3,Ouate,133,111,22,4,0,107,101,6   
+Province Nord,POUM,N. 1,Mairie,599,524,75,7,7,510,374,136   
+Province Nord,POUM,N. 2,Tiabet,382,341,41,2,2,337,320,17   
+Province Nord,POUM,N. 3,Ecole catholique d Arama,385,287,98,0,1,286,254,32   
+Province Nord,POYA Nord,N. 1,Mairie 1,526,462,64,4,3,455,222,233   
+Province Nord,POYA Nord,N. 2,Gohapin,446,380,66,2,0,378,362,16   
+Province Nord,POYA Nord,N. 3,Nepoui,671,575,96,7,3,565,194,371 
+Province Nord,POYA Nord,N. 4,Montfaoue,250,217,33,0,1,216,212,4   
+Province Sud,POYA Sud,N. 5,Maison Moindah,159,147,12,1,0,146,3,143   
+Province Nord,POYA Nord,N. 6,Nekliai,190,169,21,0,0,169,154,15   
+Province Sud,SARRAMEA,N. 1,Mairie,506,472,34,3,4,465,339,126   
+Province Sud,THIO,N. 1,Mairie,800,672,128,5,2,665,436,229   
+Province Sud,THIO,N. 2,Mairie,564,490,74,2,0,488,442,46   
+Province Sud,THIO,N. 3,Grand Borendy,309,254,55,2,0,252,242,10   
+Province Sud,THIO,N. 4,Saint-Pierre,441,389,52,6,3,380,363,17   
+Province Nord,TOUHO,N. 1,Mairie,959,810,149,6,3,801,593,208   
+Province Nord,TOUHO,N. 2,Tiouande,226,187,39,1,2,184,157,27   
+Province Nord,TOUHO,N. 3,Kokingone,302,268,34,2,0,266,239,27   
+Province Nord,TOUHO,N. 4,Paola,402,347,55,0,0,347,331,16   
+Province Nord,VOH,N. 1,Mairie,1446,1249,197,18,13,1218,791,427   
+Province Nord,VOH,N. 2,Temala,819,733,86,12,6,715,521,194   
+Province Nord,VOH,N. 3,Ouengo,47,45,2,0,0,45,45,0   
+Province Sud,YATE,N. 1,Mairie,278,257,21,4,0,253,206,47   
+Province Sud,YATE,N. 2,Touaourou,473,434,39,2,0,432,370,62   
+Province Sud,YATE,N. 3,Goro,217,193,24,0,1,192,156,36   
+Province Sud,YATE,N. 4,Unia,753,663,90,2,0,661,625,36
